@@ -25,8 +25,8 @@ def run_jdoodle_api(code, language, test_cases, main_function):
     Execute code using JDoodle API for all supported languages
     """
     # JDoodle API credentials
-    jdoodle_client_id = "cd8255dd76edc58df38d4ecf3a250a68"
-    jdoodle_client_secret = "ec2d07d421f7e6f13fa08edc9c1b5cd1fcaea13128d9be7557248d117e55269"
+    jdoodle_client_id = "cece526f22f25d7f2eb9fc3da7ebf718"
+    jdoodle_client_secret = "d0c4f7fceb6245e52dbac8943c8d61fd74a4d005154200f10054381a8d06fdb9"
     jdoodle_url = "https://api.jdoodle.com/v1/execute"
     
     results = []
